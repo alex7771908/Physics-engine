@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/../../../../../Downloads/circle.png</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/collision.png</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/GameFont.spritefont</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/ground.jpeg</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/magnet.png</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/MontserratBold.spritefont</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/MontserratRegular.spritefont</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/sliderCircle.png</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/sliderLine.png</File>
+    <File>C:/Users/Alex/source/repos/MonoGameTest/Physics, engine/Content/The Sandbox Game music Official - Sandbox music (1).mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>circle.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
